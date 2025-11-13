@@ -16,7 +16,7 @@ Coral reefs are highly sensitive to environmental changes, particularly temperat
 ### 1. Clone the repository
 
 ### 2. run the below 4 files to get the results of the model
-1.Logistic_regression.ipynb
-2.RandomForest.ipynb
-3.SVM.ipynb
-4.Result_Comparison.ipynb
+1.lr.ipynb
+2.rf.ipynb
+3.svm.ipynb
+4.result.ipynb
